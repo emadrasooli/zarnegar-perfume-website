@@ -1,7 +1,6 @@
 ﻿export default function Home() {
   return (
     <div className="min-h-screen w-full relative bg-black">
-      {/* Golden Horizon Background with Top Glow */}
       <div
         className="absolute inset-0 z-0"
         style={{
@@ -14,7 +13,6 @@
           عطریـات زرنـگـار
         </h1>
         <p className="text-2xl text-zinc-400">
-          {" "}
           عطر تنها یک بو نیست، شخصیت نامرئی توست.
         </p>
       </div>
