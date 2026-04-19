@@ -30,7 +30,7 @@ export default function Home() {
 
         <div className="max-w-3xl w-full max-auto flex flex-col sm:flex-row md:px-4 px-8 xl:px-0 items-center justify-between gap-6 mt-8 md:mt-16">
           <Link
-            href="https://wa.me/0793445600"
+            href="https://wa.me/93793445600"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="تماس با عطریات زرنگار از طریق واتساپ"
